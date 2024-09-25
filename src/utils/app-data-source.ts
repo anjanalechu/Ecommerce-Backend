@@ -6,7 +6,7 @@ export const myDataSource = new DataSource({
     host: "mysql-350a5e9b-anjanalachu2000-0391.l.aivencloud.com",
     port:17531,
     username: "avnadmin",
-    password: "AVNS_aBBmxnS89xiJl7AYSwF",
+    password: "",
     database: "defaultdb",
     entities: [__dirname + "/entity/*.ts"],
     logging: false,
